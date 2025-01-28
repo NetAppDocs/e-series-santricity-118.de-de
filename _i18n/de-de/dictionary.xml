@@ -8751,4 +8751,7 @@
   <block id="31ef3dfd1e101bf5cf328ec387a10820" category="sidebar">Volumes kopieren</block>
   <block id="41b4e5d916e26c9e0d32ceff6fd589ed" category="sidebar">Managen von Abläufen</block>
   <block id="0c54aa2356b1ba19bf4386215c1829f9" category="sidebar">Warum sind diese Volumen nicht mit einem Workload verbunden?</block>
+  <block id="fdaf387b2cf2a5e0708730deae924c52" category="section-title">Neue Funktionen in Version 11.80.1R3</block>
+  <block id="a372f5d0e522484d2807c2713feb9e59" category="paragraph">Diese Version enthält nur geringfügige Änderungen und keine neuen Funktionen oder Einschränkungen. Weitere Informationen zu den Änderungen in dieser Version finden Sie in der README-Datei.</block>
+  <block id="cb495aee74d8e4c14850fb4a3882a508" category="section-title">Neue Funktionen in Version 11.80.1R2</block>
 </blocks>
