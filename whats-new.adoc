@@ -16,6 +16,12 @@ In der folgenden Tabelle werden die neuen Funktionen von SANtricity System Manag
 
 
 
+== Neue Funktionen in Version 11.80.1R4
+
+Diese Version enthält nur geringfügige Änderungen und keine neuen Funktionen oder Einschränkungen. Weitere Informationen zu den Änderungen in dieser Version finden Sie in der README-Datei.
+
+
+
 == Neue Funktionen in Version 11.80.1R3
 
 Diese Version enthält nur geringfügige Änderungen und keine neuen Funktionen oder Einschränkungen. Weitere Informationen zu den Änderungen in dieser Version finden Sie in der README-Datei.
